@@ -1,3 +1,5 @@
 JAVA
 PHP
 C++
+Python
+JavaScript
